@@ -1,4 +1,4 @@
-#Guia de Instalação do Projeto 
+# Guia de Instalação do Projeto 
 Este guia detalha o processo de configuração e execução do ambiente de desenvolvimento local usando Docker e Laravel Sail.
 
 Demonstração na pasta vídeo, localizada na raíz do projeto.
